@@ -5,10 +5,10 @@
   "icon": "images/icon.png",
   "publisher": "MikelJohnson",
   "galleryBanner": {
-    "color": "#323233",
+    "color": "#1e1e1e",
     "theme": "dark"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Mikel Johnson",
     "url": "https://github.com/MikelJohnson"
