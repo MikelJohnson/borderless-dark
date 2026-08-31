@@ -1,0 +1,21 @@
+{
+  "name": "borderless-dark",
+  "displayName": "Borderless Dark",
+  "description": "A modern dark theme designed for the 2026 vscode refresh",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.134.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Borderless Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Borderless Dark-color-theme.json"
+      }
+    ]
+  }
+}
