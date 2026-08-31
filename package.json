@@ -3,6 +3,7 @@
   "displayName": "Borderless Dark",
   "description": "A modern dark theme designed for the 2026 vscode refresh",
   "icon": "images/icon.png",
+  "publisher": "MikelJohnson",
   "galleryBanner": {
     "color": "#323233",
     "theme": "dark"
