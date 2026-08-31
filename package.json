@@ -2,7 +2,16 @@
   "name": "borderless-dark",
   "displayName": "Borderless Dark",
   "description": "A modern dark theme designed for the 2026 vscode refresh",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#323233",
+    "theme": "dark"
+  },
   "version": "0.1.0",
+  "author": {
+    "name": "Mikel Johnson",
+    "url": "https://github.com/MikelJohnson"
+  },
   "engines": {
     "vscode": "^1.134.0"
   },
